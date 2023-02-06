@@ -129,4 +129,5 @@ public class Main {
         long kristinaNewSalaryYear = kristinaNewSalary * 12;
         System.out.println("Кристина теперь получает " + kristinaNewSalary + " рублей. Годовой доход вырос на " + (kristinaNewSalaryYear - kristinaSalaryYear) + " рублей");
     }
+
 }
